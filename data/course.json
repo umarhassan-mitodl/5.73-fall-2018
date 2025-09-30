@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "07e8097f-872c-3d0e-b797-8fe63405c946",
+  "instructors": {
+    "content": [
+      "3bb00750-4104-95e3-58ad-6f8d7504e607"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "db0a558f-eb6f-a151-1bb1-b3f4515dfb5d",
+    "website": "5-73-quantum-mechanics-i-fall-2018"
+  },
+  "course_title": "Quantum Mechanics I",
+  "hide_download": true,
+  "course_description": "This course presents the fundamental concepts of quantum mechanics: wave properties, uncertainty principles, the Schr\u00f6dinger equation, and operator and matrix methods. Key topics include commutation rule definitions of scalar, vector, and spherical tensor operators; the Wigner-Eckart theorem; and 3j (Clebsch-Gordan) coefficients. In addition, we deal with many-body systems, exemplified by many-electron atoms (\u201celectronic structure\u201d), anharmonically coupled harmonic oscillators (\u201cintramolecular vibrational redistribution: IVR\u201d), and periodic solids.",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.73",
+  "course_image_thumbnail": {
+    "content": "8bb222ca-76b6-a2ac-09d3-b8a241a509ef",
+    "website": "5-73-quantum-mechanics-i-fall-2018"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "f93e1548-f654-491c-ac81-61508f0b4a53",
+  "site_short_id": "5.73-fall-2018",
+  "site_url_path": "courses/5-73-quantum-mechanics-i-fall-2018",
+  "title": "Course Metadata"
+}

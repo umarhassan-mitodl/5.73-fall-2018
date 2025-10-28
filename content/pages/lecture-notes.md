@@ -3,8 +3,6 @@ content_type: page
 description: This section contains the topics and concepts covered by the instructor
   in each class meeting.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

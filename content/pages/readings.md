@@ -3,8 +3,6 @@ content_type: page
 description: This section contains a list of assigned pages from the course textbook,
   and occasional handouts, that students are expected to read in preparation for each
   lecture.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -192,7 +190,7 @@ Wigner-Eckart Theorem
 Begin Many-Electron Atoms: Quantum Defect Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Ross, Stephen. "[MQDT Primer](https://aip.scitation.org/doi/abs/10.1063/1.40550)" pp. 73–110 in _Half Collision Resonance Phenomena in Molecules_ (AIP Conf. Proc. #225,  M. Garciá-Sucre, G. Raseev, and S.C. Ross) 1991. DOI: [https://doi.org/10.1063/1.40550](https://aip.scitation.org/doi/abs/10.1063/1.40550)
+Ross, Stephen. "{{% resource_link "31d85743-a015-4581-bae6-ab1ade1ce523" "MQDT Primer" %}}" pp. 73–110 in _Half Collision Resonance Phenomena in Molecules_ (AIP Conf. Proc. #225,  M. Garciá-Sucre, G. Raseev, and S.C. Ross) 1991. DOI: {{% resource_link "31d85743-a015-4581-bae6-ab1ade1ce523" "https://doi.org/10.1063/1.40550" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

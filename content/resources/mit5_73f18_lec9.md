@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-73-quantum-mechanics-i-fall-2018/d55ad99c5bb1b0f1131b1d971b246195_MIT5_73F18_Lec9.pdf
 file_size: 831961
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

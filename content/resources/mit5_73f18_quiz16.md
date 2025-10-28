@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-73-quantum-mechanics-i-fall-2018/7e135322311dd9ea9b9f0a382d41079c_MIT5_73F18_quiz16.pdf
 file_size: 209312
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

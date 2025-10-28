@@ -28,7 +28,6 @@
     "website": "5-73-quantum-mechanics-i-fall-2018"
   },
   "course_title": "Quantum Mechanics I",
-  "hide_download": true,
   "course_description": "This course presents the fundamental concepts of quantum mechanics: wave properties, uncertainty principles, the Schr\u00f6dinger equation, and operator and matrix methods. Key topics include commutation rule definitions of scalar, vector, and spherical tensor operators; the Wigner-Eckart theorem; and 3j (Clebsch-Gordan) coefficients. In addition, we deal with many-body systems, exemplified by many-electron atoms (\u201celectronic structure\u201d), anharmonically coupled harmonic oscillators (\u201cintramolecular vibrational redistribution: IVR\u201d), and periodic solids.",
   "department_numbers": [
     "5"
@@ -39,7 +38,6 @@
     "content": "8bb222ca-76b6-a2ac-09d3-b8a241a509ef",
     "website": "5-73-quantum-mechanics-i-fall-2018"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes"
